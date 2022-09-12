@@ -1,6 +1,9 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Rodrigo Pereira
+Olá, Me chamo Rodrigo
+
+## Atualmente Estudando Programação
+- Git, GitHub
 
 ## Meus Hobbies
 
@@ -8,8 +11,6 @@ Olá, eu sou o Rodrigo Pereira
 - Séries
 - Tecnologia
 
-## Atualmente Estudando Programação
-- Git, GitHub
 
 ## Contatos
  
